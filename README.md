@@ -4,7 +4,7 @@
 	
   练习此项目，推荐的速成学习路线：html+css，js，node.js,包管理工具（npm、cnpm、npx、pnpm），webpack打包工具，git，Vue3，ts，前端可视化，VueCLI和Vite。
 		
-  本项目只是为了记录，也可用于学习分享。
+  本项目学习自coderwhy，只是为了记录，也可用于学习分享。
 	
   项目笔记还再整理，下周再放这里。
 
