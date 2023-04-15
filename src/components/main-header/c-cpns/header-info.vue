@@ -22,7 +22,7 @@
             :size="30"
             src="https://assets.leetcode.cn/aliyun-lc-upload/users/tsu-30/avatar_1663650699.png?x-oss-process=image%2Fformat%2Cwebp"
           />
-          <span class="name">amshanxin</span>
+          <span class="name">{{ loginStore.userInfo.name }}</span>
         </span>
         <template #dropdown>
           <el-dropdown-menu>
