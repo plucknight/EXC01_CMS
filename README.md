@@ -1,6 +1,6 @@
 # CMS
 
-  该项目是一个基于 Vue3 框架的前端应用，使用 Element-Plus UI 框架、Pinner 状态管理、Echart5× 可视化工具，以及 @vueuse/core、dayjs、countup.js 等工具库，同时采用了 Git Hook 工具 husky、Axios HTTP 工具、Vue Router 4.x 路由工具。项目采用 TypeScript4.x+JavaScript 编程语言，Vue 3.x+setup 前端框架。
+  该项目是一个基于 Vue3 框架的前端应用，使用 Element-Plus UI 框架、Pinia 状态管理、Echart5× 可视化工具，以及 @vueuse/core、dayjs、countup.js 等工具库，同时采用了 Git Hook 工具 husky、Axios HTTP 工具、Vue Router 4.x 路由工具。项目采用 TypeScript4.x+JavaScript 编程语言，Vue 3.x+setup 前端框架。
 	
   练习此项目，推荐的速成学习路线：html+css，js，node.js,包管理工具（npm、cnpm、npx、pnpm），webpack打包工具，git，Vue3，ts，前端可视化，VueCLI和Vite。
 		
