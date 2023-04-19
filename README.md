@@ -7,6 +7,7 @@
   本项目学习自coderwhy，只是为了记录，也可用于学习分享。
 	
   项目目录：
+  ```
 CMS
 ├── README.md
 ├── auto-imports.d.ts
@@ -189,8 +190,8 @@ CMS
 │           └── NotFound.vue //404配置
 ├── tsconfig.json	//TypeScript 使用 tsconfig.json 文件作为其配置文件,该目录为 TypeScript 项目的根目录类型提示
 ├── tsconfig.node.json	//指定ts编译所需根文件和编译器选项
-└── vite.config.ts //vite项目
-
+└── vite.config.ts //vite项目配置
+```
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
